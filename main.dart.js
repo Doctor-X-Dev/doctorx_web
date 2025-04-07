@@ -42270,7 +42270,7 @@ A.vx.prototype={
 an(){return new A.zT(new A.J5(B.xs,$.av()),B.k)}}
 A.zT.prototype={
 aaS(){var s,r,q,p=B.d.mL(this.d.a.a)
-if(p.length!==0){s=A.Ri(null,"suporte@seudominio.com",A.BQ(B.fs,"subject=Solicita\xe7\xe3o de Remo\xe7\xe3o de Dados&body="+("Ol\xe1,\n\nGostaria de solicitar a remo\xe7\xe3o dos meus dados cadastrados no sistema.\n\nE-mail associado ao cadastro: "+p+"\n\nPor favor, confirmem a exclus\xe3o conforme previsto na pol\xedtica de privacidade e na LGPD.\n\nAtenciosamente,\n"+p+"\n"),B.a2,!1),null,"mailto")
+if(p.length!==0){s=A.Ri(null,"contatodoctorxapp@gmail.com",A.BQ(B.fs,"subject=Solicita\xe7\xe3o de Remo\xe7\xe3o de Dados&body="+("Ol\xe1,\n\nGostaria de solicitar a remo\xe7\xe3o dos meus dados cadastrados no sistema.\n\nE-mail associado ao cadastro: "+p+"\n\nPor favor, confirmem a exclus\xe3o conforme previsto na pol\xedtica de privacidade e na LGPD.\n\nAtenciosamente,\n"+p+"\n"),B.a2,!1),null,"mailto")
 r=window
 r.toString
 q=r.open(s.gnG(),"_self")
